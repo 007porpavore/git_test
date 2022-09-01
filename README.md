@@ -1,3 +1,3 @@
 # git_test
 Testing out Github repo!
-Hello Odin!
+Hello Odin! Hello friend!
